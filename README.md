@@ -24,14 +24,14 @@ Download [Studio 3T or Robo 3T](https://robomongo.org/)
 
 ## Back-End
 
-` cd backend `
-` node main.js `
+- ` cd backend `
+- ` node main.js `
 
 ## Front-End
 
-- React and TypeScript
+React and TypeScript
 
-` cd my-app`
-` npm run start `
+- ` cd my-app`
+- ` npm run start `
 
 
